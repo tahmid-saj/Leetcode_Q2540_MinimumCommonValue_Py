@@ -1,0 +1,1 @@
+# Leetcode_Q2540_MinimumCommonValue_Py
